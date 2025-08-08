@@ -9,7 +9,7 @@ I'm a *Frontend Web Developer* passionate about building responsive and user-fri
 I specialize in *React.js, **JavaScript, and **modern web technologies*.  
 I enjoy solving problems, learning new tools, and bringing creative ideas to life.
 
-## 🛠 Skills
+
 ## 🛠️ Skills
 
 ### 💻 Frontend
