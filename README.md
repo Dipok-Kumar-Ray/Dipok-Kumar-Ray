@@ -1,5 +1,7 @@
 # Hi there, I'm Dipok Kumar Ray 👋
 
+<img src="https://i.ibb.co/yBxyTL58/Black-and-White-Modern-Business-Linked-In-Banner.png" alt="Blue-Gradient-Modern-Linked-In-Banner" border="0">
+
 ## 🚀 About Me
 I'm a *Frontend Web Developer* passionate about building responsive and user-friendly web applications.  
 I specialize in *React.js, **JavaScript, and **modern web technologies*.  
