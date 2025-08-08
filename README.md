@@ -1,6 +1,6 @@
 # Hi there, I'm Dipok Kumar Ray 👋
 
-<img src="[https://i.ibb.co.com/QGbQ4Gg/Linked-In-Cover.png]" alt="Blue-Gradient-Modern-Linked-In-Banner" border="0">
+<img src="https://i.ibb.co.com/QGbQ4Gg/Linked-In-Cover.png" alt="Blue-Gradient-Modern-Linked-In-Banner" border="0">
 
 ## 🚀 About Me
 I'm a *Frontend Web Developer* passionate about building responsive and user-friendly web applications.  
