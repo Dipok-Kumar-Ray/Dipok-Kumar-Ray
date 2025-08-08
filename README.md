@@ -39,6 +39,6 @@ I enjoy solving problems, learning new tools, and bringing creative ideas to lif
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BELALKHANBK&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipok-kumar-ray/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=react&logoColor=white)](https://courageous-taiyaki-d4e30c.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belalkhanloverboy2004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipok7316@gmail.com)
