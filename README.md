@@ -30,7 +30,7 @@ I enjoy solving problems, learning new tools, and bringing creative ideas to lif
 ## 📌 Featured Projects
 - [*HobbyHub*](https://github.com/yourusername/hobbyhub) - A local hobby group organizer app.
 - [*WhereIsIt*](https://github.com/yourusername/whereisit) - Lost & Found platform.
-- [*Portfolio Website*](https://your-portfolio-link.com)
+- [*Portfolio Website*](https://dulcet-bavarois-16c92c.netlify.app)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipok-Kumar-Ray&show_icons=true&theme=radical)
@@ -40,5 +40,5 @@ I enjoy solving problems, learning new tools, and bringing creative ideas to lif
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipok-kumar-ray/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=react&logoColor=white)](https://courageous-taiyaki-d4e30c.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=react&logoColor=white)](https://dulcet-bavarois-16c92c.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipok7316@gmail.com)
