@@ -28,7 +28,7 @@ I enjoy solving problems, learning new tools, and bringing creative ideas to lif
 </p>
 
 ## 📌 Featured Projects
-- [*HobbyHub*](https://github.com/yourusername/hobbyhub) - A local hobby group organizer app.
+- []
 - [*WhereIsIt*](https://github.com/yourusername/whereisit) - Lost & Found platform.
 - [*Portfolio Website*](https://dulcet-bavarois-16c92c.netlify.app)
 
