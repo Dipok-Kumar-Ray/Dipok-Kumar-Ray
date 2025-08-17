@@ -29,7 +29,7 @@ I enjoy solving problems, learning new tools, and bringing creative ideas to lif
 
 ## 📌 Featured Projects
 - []
-- [*WhereIsIt*](https://github.com/yourusername/whereisit) - Lost & Found platform.
+- []
 - [*Portfolio Website*](https://dulcet-bavarois-16c92c.netlify.app)
 
 ## 📊 GitHub Stats
