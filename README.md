@@ -29,8 +29,7 @@ I enjoy solving problems, learning new tools, and bringing creative ideas to lif
 
 ## 📌 Featured Projects
 - []
-- []
-- []
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipok-Kumar-Ray&show_icons=true&theme=radical)
