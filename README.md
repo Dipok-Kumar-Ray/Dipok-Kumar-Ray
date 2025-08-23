@@ -34,7 +34,7 @@ I enjoy solving problems, learning new tools, and bringing creative ideas to lif
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipok-Kumar-Ray&show_icons=true&theme=radical)
 
 ## 🔝 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BELALKHANBK&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipok-kumar-ray&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipok-kumar-ray/)
