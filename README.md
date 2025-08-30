@@ -27,7 +27,7 @@ I enjoy solving problems, learning new tools, and bringing creative ideas to lif
 </p>
 
 ## 📌 Featured Projects
-- []
+- [Local Food Waste Reduction Platform](https://charity-express-d807c.web.app) 
 
 
 ## 📊 GitHub Stats
