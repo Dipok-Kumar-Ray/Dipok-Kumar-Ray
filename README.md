@@ -11,7 +11,7 @@ I enjoy solving problems, learning new tools, and bringing creative ideas to lif
 
 ## 🛠️ Skills
 
-### 💻 Frontend
+### 💻 Frontend Technology
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,tailwind,bootstrap,nextjs" />
 </p>
