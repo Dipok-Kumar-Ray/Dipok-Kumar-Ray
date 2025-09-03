@@ -30,7 +30,6 @@ I enjoy solving problems, learning new tools, and bringing creative ideas to lif
 - [Local Food Waste Reduction Platform](https://charity-express-d807c.web.app)
 - [Knowledge sharing Platform](https://eduhive-auth-87275.web.app)
 
-
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipok-Kumar-Ray&show_icons=true&theme=radical)
 
@@ -41,3 +40,4 @@ I enjoy solving problems, learning new tools, and bringing creative ideas to lif
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipok-kumar-ray/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=react&logoColor=white)](https://dipok-portfolio-auth.web.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipok7316@gmail.com)
+[![Facebook](https://web.facebook.com/dipok.kumer.roy.2024)]
