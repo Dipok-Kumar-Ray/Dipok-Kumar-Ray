@@ -29,6 +29,7 @@ I enjoy solving problems, learning new tools, and bringing creative ideas to lif
 
 ## 📌 Featured Projects
 -🔗 [Local Food Waste Reduction Platform](https://charity-express-d807c.web.app)
+
 -🔗 [Knowledge sharing Platform](https://eduhive-auth-87275.web.app)
 
 ## 📊 GitHub Stats
