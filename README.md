@@ -10,6 +10,7 @@ I specialize in *React.js, **JavaScript, and **modern web technologies*.
 I enjoy solving problems, learning new tools, and bringing creative ideas to life.
 
 
+
 ## 🛠️ Skills
 
 ### 💻 Frontend Technology
@@ -17,10 +18,12 @@ I enjoy solving problems, learning new tools, and bringing creative ideas to lif
   <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,tailwind,bootstrap,nextjs" />
 </p>
 
+
 ### 🔧 Backend & Database Technology
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
+
 
 ### 🛠️ Tools & Others
 <p>
