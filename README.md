@@ -13,13 +13,22 @@ I love solving problems, exploring new tools, and turning creative ideas into im
 <p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> </p>
 ⚙️ Tools & Others
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma" /> </p>
+
 📌 Featured Projects
 
-🔗 Local Food Waste Reduction Platform
+### Group Project
+
+RideX is a smart ride-sharing platform that connects riders and drivers for safe, fast, and affordable city travel.
+
+🔗 ([RideX - Ride-sharing Platform](https://ridex-ride-sharing.vercel.app))
+
+A platform that connects food donors with charities to reduce food waste. Features include real-time donor listings, charity matching, and impact tracking.
+
+🔗 [Local Food Waste Reduction Platform](https://charity-express-d807c.web.app)
 
 A community-driven platform that connects donors and restaurants with charities to reduce food waste.
 
-🔗 Knowledge Sharing Platform
+🔗 [Knowledge Sharing Platform](https://eduhive-auth-87275.web.app)
 
 A collaborative learning platform where users can share educational articles and resources.
 
@@ -39,11 +48,6 @@ A collaborative learning platform where users can share educational articles and
   <!-- Contribution heatmap (alternate visual) -->
   <br/>
   <img src="https://ghchart.rshah.org/Dipok-Kumar-Ray" alt="GitHub contribution chart" />
-
-  <!-- Fallback: streak-stats (Heroku) - যদি আসে -->
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dipok-Kumar-Ray&theme=radical&hide_border=false" alt="Dipok's GitHub Streak (fallback)" />
-</p>
 
 <p align="center">
   <!-- Contributor stats (vercel-hosted alternative) -->
