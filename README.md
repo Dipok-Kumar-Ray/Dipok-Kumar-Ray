@@ -42,10 +42,6 @@ A collaborative learning platform where users can share educational articles and
 ## 🔥 GitHub Streak & Contributions
 
 <p align="center">
-  <!-- Primary: vercel stats (স্ত্যাবল বেশি) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Dipok-Kumar-Ray&show_icons=true&theme=radical&count_private=true" alt="Dipok's GitHub stats" />
-
-<p align="center">
   <!-- Contributor stats (vercel-hosted alternative) -->
   <img src="https://github-contributor-stats.vercel.app/api?username=Dipok-Kumar-Ray&limit=12&theme=radical&combine_all_yearly_contributions=true" alt="Dipok's GitHub Contributions" />
 </p>
