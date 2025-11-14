@@ -7,6 +7,7 @@ I specialize in React.js, JavaScript (ES6+), and modern web technologies.
 I love solving problems, exploring new tools, and turning creative ideas into impactful digital solutions.
 
 🛠️ Technical Skills
+
 💻 Frontend Technologies
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,firebase,tailwind,bootstrap" /> </p>
 🔧 Backend & Database
@@ -49,6 +50,7 @@ A collaborative learning platform where users can share educational articles and
 
 🌐 Connect with Me
 <p align="left"> <a href="https://www.linkedin.com/in/dipok-kumar-ray/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://dipok-portfolio-auth.web.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" /> </a> <a href="mailto:dipok7316@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://web.facebook.com/dipok.kumer.roy.2024"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> </p>
+
 ✨ Fun Quote
 
 “Code with creativity, design with passion, and deliver with purpose.”
