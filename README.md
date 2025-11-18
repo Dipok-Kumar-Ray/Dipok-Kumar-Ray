@@ -1,5 +1,5 @@
 👋 Hi, I'm Dipok Kumar Ray
-<img src="https://i.ibb.co.com/QGbQ4Gg/Linked-In-Cover.png" alt="Dipok Kumar Ray Banner" width="100%" />
+<img src="https://i.ibb.co.com/7d1Jsfg7/Linked-In-Banner.png" alt="Dipok Kumar Ray Banner" width="100%" />
 🚀 About Me
 
 I'm a Frontend Web Developer passionate about crafting responsive, interactive, and user-friendly web applications.
