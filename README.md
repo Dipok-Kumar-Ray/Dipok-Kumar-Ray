@@ -3,7 +3,7 @@
 🚀 About Me
 
 I'm a Frontend Web Developer passionate about crafting responsive, interactive, and user-friendly web applications.
-I specialize in React.js, JavaScript (ES6+), and modern web technologies.
+I specialize in React.js, JavaScript (ES6+), TypeScript and modern web technologies.
 I love solving problems, exploring new tools, and turning creative ideas into impactful digital solutions.
 
 🛠️ Technical Skills
@@ -17,7 +17,7 @@ I love solving problems, exploring new tools, and turning creative ideas into im
 
 📌 Featured Projects
 
-### Group Project
+## Group Project
 
 RideX is a smart ride-sharing platform that connects riders and drivers for safe, fast, and affordable city travel.
 
