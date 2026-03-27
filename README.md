@@ -9,7 +9,7 @@ I love solving problems, exploring new tools, and turning creative ideas into im
 🛠️ Technical Skills
 
 💻 Frontend Technologies
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,firebase,tailwind,bootstrap" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,firebase,tailwind,typescript,redux" /> </p>
 🔧 Backend & Database
 <p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> </p>
 ⚙️ Tools & Others
