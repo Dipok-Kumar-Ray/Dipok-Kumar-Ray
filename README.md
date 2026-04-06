@@ -1,5 +1,7 @@
 👋 Hi, I'm Dipok Kumar Ray
 <img src="https://i.ibb.co.com/7d1Jsfg7/Linked-In-Banner.png" alt="Dipok Kumar Ray Banner" width="100%" />
+
+
 🚀 About Me
 
 I'm a Frontend Web Developer passionate about crafting responsive, interactive, and user-friendly web applications.
@@ -9,13 +11,15 @@ I love solving problems, exploring new tools, and turning creative ideas into im
 🛠️ Technical Skills
 
 💻 Frontend Technologies
+
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,firebase,tailwind,typescript,redux" /> </p>
 🔧 Backend & Database
+
 <p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> </p>
 ⚙️ Tools & Others
+
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma" /> </p>
 
-📌 Featured Projects
 
 ## Group Project
 
