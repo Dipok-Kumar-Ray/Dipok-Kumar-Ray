@@ -42,6 +42,7 @@ A collaborative learning platform where users can share educational articles and
 <img src="https://github-readme-stats.vercel.app/api?username=Dipok-Kumar-Ray&show_icons=true&theme=radical" alt="Dipok's GitHub stats"/>
 
 <!-- Top languages -->
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dipok-Kumar-Ray&layout=compact&theme=radical" alt="Top languages"/>
 
 ## 🔥 GitHub Streak & Contributions
@@ -53,6 +54,7 @@ A collaborative learning platform where users can share educational articles and
 
 
 🌐 Connect with Me
+
 <p align="left"> <a href="https://www.linkedin.com/in/dipok-kumar-ray/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://dipok-portfolio-auth.web.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" /> </a> <a href="mailto:dipok7316@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://web.facebook.com/dipok.kumer.roy.2024"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> </p>
 
 ✨ Fun Quote
