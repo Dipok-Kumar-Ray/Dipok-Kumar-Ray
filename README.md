@@ -39,12 +39,6 @@ A collaborative learning platform where users can share educational articles and
 
 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dipok-Kumar-Ray&show_icons=true&theme=radical" alt="Dipok's GitHub stats"/>
-
-<!-- Top languages -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dipok-Kumar-Ray&layout=compact&theme=radical" alt="Top languages"/>
-
 ## 🔥 GitHub Streak & Contributions
 
 <p align="center">
