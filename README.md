@@ -55,5 +55,4 @@ A collaborative learning platform where users can share educational articles and
 
 “Code with creativity, design with passion, and deliver with purpose.”
 
-🧩 Visitor Counter
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Dipok-Kumar-Ray&label=Profile+Views&color=brightgreen" alt="Profile Views" /> </p>
