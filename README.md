@@ -21,8 +21,7 @@ I love solving problems, exploring new tools, and turning creative ideas into im
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma" /> </p>
 
 
-## Group Project
-
+*** Group Project
 RideX is a smart ride-sharing platform that connects riders and drivers for safe, fast, and affordable city travel.
 
 🔗 ([RideX - Ride-sharing Platform](https://ridex-ride-sharing.vercel.app))
