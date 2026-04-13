@@ -1,4 +1,4 @@
-👋 Hi, I'm Dipok Kumar Ray
+Hi, I'm Dipok Kumar Ray
 <img src="https://i.ibb.co.com/7d1Jsfg7/Linked-In-Banner.png" alt="Dipok Kumar Ray Banner" width="100%" />
 
 
