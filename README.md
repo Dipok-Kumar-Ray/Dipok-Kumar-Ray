@@ -2,7 +2,7 @@ Hi, I'm Dipok Kumar Ray
 <img src="https://i.ibb.co.com/7d1Jsfg7/Linked-In-Banner.png" alt="Dipok Kumar Ray Banner" width="100%" />
 
 
-🚀 About Me
+About Me
 
 I'm a Frontend Web Developer passionate about crafting responsive, interactive, and user-friendly web applications.
 I specialize in React.js, JavaScript (ES6+), TypeScript, Redux and modern web technologies.
