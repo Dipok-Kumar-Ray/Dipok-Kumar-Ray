@@ -40,10 +40,10 @@ A collaborative learning platform where users can share educational articles and
 
 ## 🔥 GitHub Streak & Contributions
 
-<p align="center">
+<!-- <p align="center">
   <!-- Contributor stats (vercel-hosted alternative) -->
   <img src="https://github-contributor-stats.vercel.app/api?username=Dipok-Kumar-Ray&limit=12&theme=radical&combine_all_yearly_contributions=true" alt="Dipok's GitHub Contributions" />
-</p>
+</p> -->
 
 
 🌐 Connect with Me
