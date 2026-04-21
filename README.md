@@ -8,7 +8,7 @@ I'm a Frontend Web Developer passionate about crafting responsive, interactive, 
 I specialize in React.js, JavaScript (ES6+), TypeScript, Redux and modern web technologies.
 I love solving problems, exploring new tools, and turning creative ideas into impactful digital solutions.
 
-🛠️ Technical Skills
+*** 🛠️ Technical Skills
 
 💻 Frontend Technologies
 
