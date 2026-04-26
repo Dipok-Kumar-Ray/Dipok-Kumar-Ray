@@ -4,7 +4,7 @@ Hi, I'm Dipok Kumar Ray ...
 <img src="https://i.ibb.co.com/7d1Jsfg7/Linked-In-Banner.png" alt="Dipok Kumar Ray Banner" width="100%" />
 
 
-About Me
+About Me:
 
 I'm a Frontend Web Developer passionate about crafting responsive, interactive, and user-friendly web applications.
 I specialize in React.js, JavaScript (ES6+), TypeScript, Redux and modern web technologies.
@@ -23,7 +23,7 @@ I love solving problems, exploring new tools, and turning creative ideas into im
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma" /> </p>
 
 
-*** Group Project
+*** Group Project:
 RideX is a smart ride-sharing platform that connects riders and drivers for safe, fast, and affordable city travel.
 
 🔗 ([RideX - Ride-sharing Platform](https://ridex-ride-sharing.vercel.app))
