@@ -18,7 +18,7 @@ I love solving problems, exploring new tools, and turning creative ideas into im
 🔧 Backend & Database :
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> </p>
-⚙️ Tools & Others :
+*** ⚙️ Tools & Others :
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma" /> </p>
 
