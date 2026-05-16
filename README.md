@@ -38,7 +38,7 @@ A community-driven platform that connects donors and restaurants with charities 
 
 A collaborative learning platform where users can share educational articles and resources.
 
-📊 GitHub Analytics
+📊 GitHub Analytics 
 
 ## 🔥 GitHub Streak & Contributions
 
